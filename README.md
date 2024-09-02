@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Osbakk88
-- 👀 I’m interested in Design and HTML
+- 👋 Hi, I’m Christina (@Osbakk88)
+- 👀 I’m interested in Design and HTML. My hobbies are: Knitting, alpine skiing and climbing.
 - 🌱 I’m currently learning Front-end develompment
 - 💞️ I’m looking to collaborate on something fun
 - 📫 How to reach me osbakk88@hotmail.com
