@@ -1,8 +1,8 @@
-# Hi, I'm Christina 👋
-Front-end developer in training at Noroff, based in Bodø, Norway 🇳🇴
+# Hi, I'm Christina 🙋🏼‍♀️
+Front-end developer in training at Noroff. Based in Bodø, Norway 🇳🇴
 
 I'm career-changing from healthcare (authorized auxiliary nurse) into
-front-end development, and I bring a strong focus on real users,
+front-end development. I bring a strong focus on real users,
 accessibility and attention to detail.
 
 ### 🛠️ Tech I work with
